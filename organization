@@ -1,0 +1,37 @@
+<script type="application/ld+json">
+ { "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "Grad Beograd",
+ "legalName" : "Grad Beograd",
+ "url": "https://beograd.rs",
+ "logo": "https://beograd.rs/logo.png", / putanja do slike
+ "foundingDate": "1882",
+ "founders": [
+ {
+ "@type": "Person",
+ "name": "Patrick Coombe"
+ },
+ {
+ "@type": "Person",
+ "name": "Zoran Radojičić"
+ } ],
+ "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "Dragoslava Jovanovića 2",
+ "addressLocality": "Beograd",
+ "addressRegion": "RS",
+ "postalCode": "11000",
+ "addressCountry": "SRB"
+ },
+ "contactPoint": {
+ "@type": "ContactPoint",
+ "contactType": "customer support",
+ "telephone": "+381113229678",
+ "email": "beoinfo@beograd.gov.rs"
+ },
+ "sameAs": [
+ "https://www.facebook.com/GradBeograd/",
+ "https://twitter.com/beograd_rs",
+ "https://www.instagram.com/grad_beograd/"
+ ]}
+</script>
