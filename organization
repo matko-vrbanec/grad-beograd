@@ -4,7 +4,7 @@
  "name": "Grad Beograd",
  "legalName" : "Grad Beograd",
  "url": "https://beograd.rs",
- "logo": "https://beograd.rs/logo.png", / putanja do slike
+ "logo": "https://beograd.rs/logo.png", // putanja do slike
  "foundingDate": "1882",
  "founders": [
  {
